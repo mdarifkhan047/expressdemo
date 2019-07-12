@@ -1,0 +1,10 @@
+{
+
+"main": "api.js",
+"scripts": {
+ 
+    "start": "node api.js",
+    "dev": "nodemon --watch api.js"
+  
+  }
+}
